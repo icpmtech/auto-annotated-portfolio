@@ -13,11 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Hello, and welcome to Cantinho Code Academy—a community of coders united
+      by a lifelong passion for technology and creativity. Growing up immersed
+      in this vibrant world, our team has gathered invaluable experience working
+      with both major brands and independent projects. Today, we channel that
+      expertise into empowering aspiring coders at cantinhode.net.
+
+
+      When we're not programming, writing, or exploring innovative ideas, you
+      might catch us enjoying a bowl of cereal or spending quality time with our
+      dog (check her out
+      [@cantinhodedotnet](https://www.tiktok.com/@cantinhodedotnet)). Join us
+      today and embark on your coding journey!
     media:
       type: ImageBlock
       url: /images/contact.jpg
