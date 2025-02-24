@@ -14,11 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      Hello, and welcome to Cantinho Code Academy—a community of coders united
-      by a lifelong passion for technology and creativity. Growing up immersed
-      in this vibrant world, our team has gathered invaluable experience working
-      with both major brands and independent projects. Today, we channel that
-      expertise into empowering aspiring coders at cantinhode.net.
+      ## Hello, and welcome to Cantinho Code Academy—a community of coders
+      united by a lifelong passion for technology and creativity. Growing up
+      immersed in this vibrant world, our team has gathered invaluable
+      experience working with both major brands and independent projects. Today,
+      we channel that expertise into empowering aspiring coders at
+      cantinhode.net.
 
 
       When we're not programming, writing, or exploring innovative ideas, you
