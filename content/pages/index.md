@@ -195,5 +195,5 @@ sections:
         textAlign: left
 metaTitle: cantinho | code academy
 metaDescription: cantinho | code academy
-addTitleSuffix: true
+addTitleSuffix: false
 ---
