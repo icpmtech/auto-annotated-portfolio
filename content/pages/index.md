@@ -194,4 +194,5 @@ sections:
       text:
         textAlign: left
 metaTitle: cantinho | code academy
+metaDescription: cantinho | code academy
 ---
