@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Cantinho",
-    "lastName": "Soto",
+    "lastName": "Code Academy",
     "image": {
         "type": "ImageBlock",
         "url": "/images/contact.jpg",
